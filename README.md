@@ -15,3 +15,5 @@ This would create an executable called compress that you could run like this:
 
 Where input_file is the path to the file you want to compress. The program would then print out the compression metrics.
 
+## Sample Output
+<img width="388" alt="Screen Shot 2023-02-28 at 02 41 44" src="https://user-images.githubusercontent.com/63503839/221714486-61395e3d-9136-46e9-bf6c-55a76b8c05fe.png">
