@@ -2,7 +2,7 @@
 
 ## Explanation
 This program presents detailed insights on zlib performance by providing more metrics compared to the evlaution task.
-This program compresses an input using zlib, and evaluates the compression task via informative printed metrics, such as **_inputFile size, compressed file size, compression ratio, compression time, decompression time, entropy values and data integrity_**.
+This program compresses an input file using zlib, and evaluates the compression task via informative printed metrics, such as **_inputFile size, compressed file size, compression ratio, compression time, decompression time, entropy values and data integrity_**.
 
 ## How to Use It
 To use this program, you would need to have the zlib library installed and linked to your executable. For example, if you were using the g++ compiler on a Linux system, you could compile the program like this:
