@@ -25,7 +25,7 @@ This would create an executable called test that you could run like this:
 
 ## Sample Outputs
 <img width="503" alt="Screen Shot 2023-03-20 at 02 19 09" src="https://user-images.githubusercontent.com/63503839/226222446-09bddc0b-ecd2-45d6-bcba-1f971dd93f1d.png">
-Following is the example for unsuccessfull unit testing case with Google Test
+Following is the example for unsuccessfull unit testing case with Google Test:
 <img width="374" alt="Screen Shot 2023-03-26 at 17 51 35" src="https://user-images.githubusercontent.com/63503839/227884301-ef328c7d-b340-4372-99ee-c0f8f4b1d980.png">
-Following is the example for successfull unit testing case with Google Test
+Following is the example for successfull unit testing case with Google Test:
 <img width="364" alt="Screen Shot 2023-03-26 at 17 51 47" src="https://user-images.githubusercontent.com/63503839/227884325-f5c3b7c7-d808-458e-ad29-aa7449d57663.png">
